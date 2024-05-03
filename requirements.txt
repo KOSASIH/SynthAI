@@ -22,7 +22,7 @@ Keras==2.9.0
 Keras-Preprocessing==1.1.2
 Markdown==3.4.1
 numpy==1.23.0
-oauthlib==3.2.0
+oauthlib==3.2.2
 opt-einsum==3.3.0
 pandas==1.4.3
 pbr==5.12.1
